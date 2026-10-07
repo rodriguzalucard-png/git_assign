@@ -1,2 +1,3 @@
 # git_assign
-kusuma latha mayur atme clg
+new repository created to add two numbers using c programming
+
